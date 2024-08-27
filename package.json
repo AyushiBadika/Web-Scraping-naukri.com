@@ -1,0 +1,17 @@
+{
+  "name": "web-scraping-naukri.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "author": "Ayushi Badika",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "cheerio": "^1.0.0"
+  }
+}
